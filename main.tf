@@ -22,5 +22,5 @@ resource "random_pet" "rg_name" {
 
 resource "azurerm_resource_group" "rg" {
   location = "swedencentral"
-  name     = "MYRG2"
+  name     = "MYRG10"
 }
